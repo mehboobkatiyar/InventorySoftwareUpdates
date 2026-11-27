@@ -1,4 +1,4 @@
-1.1.1.0
-5d6de4a8f459838425da02cc6ece5cebb1fda7544e7b5ec3cb4fdb5c6370f139
-mandatory
-Product Print , Account Print , Weekly Report , Balance in Receipt and Payment and more.
+1.1.2.0
+b7579d3d7431b7eb0a225380ff32a480e64a76bc2748c28c737a0f2d715ad487
+optional
+Sale Lock On/Off , Mobile App Integration
